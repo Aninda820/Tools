@@ -1,5 +1,4 @@
 # Tools
-Tools for CTF
 
 python3 -m venv ftp
 
