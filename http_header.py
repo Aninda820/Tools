@@ -14,6 +14,7 @@ USAGE:
     python security_audit.py https://example.com --format json --output report.json
 """
 
+
 import argparse, json, re, socket, ssl, sys, time
 from collections import defaultdict
 from datetime import datetime
