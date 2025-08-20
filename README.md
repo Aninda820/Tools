@@ -1,10 +1,14 @@
+For run all this tools you need to create a virtual environment first nither the tools will not work 
+
+Follow the command bellow:-
+
 # Tools
 
-python3 -m venv ftp
+python3 -m venv venv
 
-source ftp/bin/activate
+source venv/bin/activate
 
-cd ftp
+cd venv
 
 git clone <github link>
 
