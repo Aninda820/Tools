@@ -28,6 +28,7 @@ USAGE:
 ⚠️  ETHICAL USE ONLY - For authorized security testing and bug bounty programs only!
 """
 
+
 import argparse
 import base64
 import hashlib
